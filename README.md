@@ -17,3 +17,16 @@ An application that displays a group of movies, whether they are more common or 
 <img src="/images/TopRatedMoviesScreen.jpg" width="300">
 <img src="/images/TrailerContentScreen.jpg" width="300">
 <img src="/images/TrailersMoviesScreen.jpg" width="300">
+## Technolgies
+### Languages :
+- Java 
+- Xml
+
+### Architecture patterns: 
+- Mvvvm
+
+### Android components:
+ - Activity
+ - Fragment
+ - Broadcast receiver
+
