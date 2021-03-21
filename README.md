@@ -23,7 +23,7 @@ An application that displays a group of movies, whether they are more common or 
 - Xml
 
 ### Architecture patterns: 
-- Mvvvm
+- Mvvm
 
 ### Android components:
  - Activity
