@@ -37,4 +37,26 @@ An application that displays a group of movies, whether they are more common or 
  - Gson 2.8.5 (https://github.com/google/gson)
  - Facebook Shimmer 0.5.0 (https://github.com/facebook/shimmer-android)
  - RecyclerView 1.1.0 (https://developer.android.com/jetpack/androidx/releases/recyclerview)
+## Setup
+To run this project, install it by download or clone. Then you need to register new account in  (https://www.themoviedb.org/) to get Api key.
+### System requirements
+- Android studio v4.1.1
+- Minimum sdk v21
+- Build tool v29.0.3
+- Compile sdk v30
+## Youtube link 
+https://youtu.be/QbltNLEKYdo
+## Licence
+### MIT Licence 
+### Copyright (c) 2021 SHADY AFIF 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+and associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial 
+
+
+
 
